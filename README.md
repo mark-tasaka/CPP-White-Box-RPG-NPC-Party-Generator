@@ -5,6 +5,11 @@ White Box Fantastic Medieval Adventure Game is an OSR style fantasy role-playing
 
 --------------
 
+Update 1.01: 2023-03-21
+
+New files added: DieRoll.h, AbilityScores.h and NPC.h.  Updates to FemaleName.cpp, MaleName.h, and MaleName.cpp. 
+
+
 Initial commit: 2023-03-15
 
 The initial commit for the C++ White Box RPG NPC Party Generator
